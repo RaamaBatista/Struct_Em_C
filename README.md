@@ -1,1 +1,3 @@
 # Struct_Em_C
+
+-> Trabalho desenvolvido em C com conceitos de: Struct, Condicionais, Vetores... 
